@@ -1,6 +1,6 @@
 {
   "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
+  "title": "Quiz do Guilherme Balog",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
@@ -33,7 +33,7 @@
     "colors": {
       "primary": "#00BCD4",
       "secondary": "#673AB7",
-      "mainBg": "#004852",
+      "mainBg": "#0E1116",
       "contrastText": "#FFFFFF",
       "wrong": "#E54F6D",
       "success": "#00A878"
