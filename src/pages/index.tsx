@@ -1,10 +1,10 @@
-import styled from "styled-components";
-import { bg, title } from "../../db.json";
-import { Widget, WidgetContent, WidgetHeader } from "../components/Widget";
-import QuizBackground from "../components/QuizBackground";
-import QuizLogo from "../components/QuizLogo";
-import GitHubCorner from "../components/GitHubCorner";
-import Footer from "../components/Footer";
+import styled from 'styled-components';
+import { bg, title } from '../../db.json';
+import { Widget, WidgetContent, WidgetHeader } from '../components/Widget';
+import QuizBackground from '../components/QuizBackground';
+import QuizLogo from '../components/QuizLogo';
+import GitHubCorner from '../components/GitHubCorner';
+import Footer from '../components/Footer';
 
 const QuizContainer = styled.div`
   width: 100%;

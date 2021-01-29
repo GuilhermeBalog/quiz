@@ -1,4 +1,5 @@
-import styled from "styled-components";
+import styled from 'styled-components';
+import React from 'react';
 
 const FooterWrapper = styled.footer`
   background-color: #00000070;
@@ -35,7 +36,7 @@ export default function Footer(props) {
         />
       </a>
       <p>
-        Orgulhosamente criado durante a{" "}
+        Orgulhosamente criado durante a{' '}
         <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>

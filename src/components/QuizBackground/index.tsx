@@ -1,5 +1,5 @@
 // src/components/QuizBackground/index.js
-import styled from "styled-components";
+import styled from 'styled-components';
 
 interface Props {
   backgroundImage: string;
@@ -15,7 +15,7 @@ const QuizBackground = styled.div<Props>`
   @media screen and (max-width: 500px) {
     background-image: none;
     &:after {
-      content: "";
+      content: '';
       background-size: cover;
       background-position: center;
       background-image: linear-gradient(

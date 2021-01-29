@@ -1,8 +1,8 @@
 /* eslint @typescript-eslint/no-empty-interface: "off" */
 
-import 'styled-components'
+import 'styled-components';
 
-import { theme } from '../../db.json'
+import { theme } from '../../db.json';
 
 export type Theme = typeof theme
 
