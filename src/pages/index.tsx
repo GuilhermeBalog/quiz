@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from 'styled-components';
 import { bg, title } from '../../db.json';
 import { Widget, WidgetContent, WidgetHeader } from '../components/Widget';

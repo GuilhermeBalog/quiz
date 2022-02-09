@@ -1,3 +1,4 @@
+import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import Head from 'next/head';
 import { AppProps } from 'next/app';
